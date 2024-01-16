@@ -1,73 +1,89 @@
-/* Chosen Color Scheme:
-   1. Primary Color: #04B2D9
-   2. Secondary Color: #04D9B2
-   3. Background Color: #011C40
-   4. Text Color: #000000
-   5. Accent Color: #04D98B
-*/
-
-
-body, html {
+body,
+html {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background-color: #011C40;
-  color: #04B2D9;
+  background-color: #A4C2E5;
+  color: #1d2c5a;
 }
 
-h1{color: ;#04B2D9; }
+h1 {
+  color: ;
+  #1d2c5a;
+}
 
 header {
-  background-color: #011C40;
+  background-color: #A4C2E5;
   padding: 10px;
   text-align: center;
 }
 
 header h1 {
-  color: #04B2D9;
+  color: #1d2c5a;
 }
 
+nav {
+  background-color: #3D5BA2;
+  border-bottom: 2px solid #3D5BA2;
+  padding: 10px 0;
+}
 
-nav{
-background-color: #011C40; text-align: center; border:1px solid #04D98B;  color:#04B2D9;  display:block; overflow:hidden; width:100%;
-  
+nav {
+  fill;
+  background-color: #A4C2E5;
+  text-align: center;
+  border: 1px solid #3D5BA2;
+  ;
+  color: #1d2c5a;
+  display: block;
+  overflow: hidden;
+  width: 100%;
+
 
 }
 
-nav ul li{ display:inline-block; list-style-type: none;
+nav ul li {
+  display: inline-block;
+  list-style-type: none;
 }
 
-nav ul li a{
+nav ul li a {
 
-color:#04B2D9; text-decoration:none;
+  color: #1d2c5a;
+  text-decoration: none;
 
-display: block; line-height:56px;
+  display: block;
+  line-height: 56px;
 
-padding:10px;
+  padding: 10px;
 
 }
 
 
 nav a:hover {
-  color: #04D98B;
+  color: #E5Effc;
 }
+
 
 
 .main-content {
   padding: 20px;
   margin: 20px;
-  background-color: #011C40;
+  background-color: #A4C2E5;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 
 footer {
-  background-color: #011C40;
+  background-color: #A4C2E5;
   text-align: center;
   padding: 10px;
-  color: #04B2D9;
+  color: #1d2c5a;
 
 }
 
 
-.bg-green;{color:#011C40}
+.bg-green;
+
+  {
+  color: #1d2c5a;
